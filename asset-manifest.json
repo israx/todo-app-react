@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/israx/todo-app-react/static/css/main.9468aa05.chunk.css",
+    "main.js": "/israx/todo-app-react/static/js/main.b8ab0b88.chunk.js",
+    "main.js.map": "/israx/todo-app-react/static/js/main.b8ab0b88.chunk.js.map",
+    "runtime-main.js": "/israx/todo-app-react/static/js/runtime-main.62e9ca79.js",
+    "runtime-main.js.map": "/israx/todo-app-react/static/js/runtime-main.62e9ca79.js.map",
+    "static/js/2.ff977aae.chunk.js": "/israx/todo-app-react/static/js/2.ff977aae.chunk.js",
+    "static/js/2.ff977aae.chunk.js.map": "/israx/todo-app-react/static/js/2.ff977aae.chunk.js.map",
+    "index.html": "/israx/todo-app-react/index.html",
+    "precache-manifest.3aa37ae843e9ad42f992f21a3b8a8069.js": "/israx/todo-app-react/precache-manifest.3aa37ae843e9ad42f992f21a3b8a8069.js",
+    "service-worker.js": "/israx/todo-app-react/service-worker.js",
+    "static/css/main.9468aa05.chunk.css.map": "/israx/todo-app-react/static/css/main.9468aa05.chunk.css.map",
+    "static/js/2.ff977aae.chunk.js.LICENSE.txt": "/israx/todo-app-react/static/js/2.ff977aae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62e9ca79.js",
+    "static/js/2.ff977aae.chunk.js",
+    "static/css/main.9468aa05.chunk.css",
+    "static/js/main.b8ab0b88.chunk.js"
+  ]
+}
